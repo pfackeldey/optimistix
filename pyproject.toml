@@ -4,7 +4,8 @@ version = "0.0.10"
 description = "Nonlinear optimisation in JAX and Equinox."
 readme = "README.md"
 requires-python ="~=3.10"
-license = {file = "LICENSE"}
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 authors = [
   {name = "Jason Rader", email = "raderjason@outlook.com"},
   {name = "Patrick Kidger", email = "contact@kidger.site"},
@@ -25,7 +26,6 @@ classifiers = [
     "Intended Audience :: Financial and Insurance Industry",
     "Intended Audience :: Information Technology",
     "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: Apache Software License",
     "Natural Language :: English",
     "Programming Language :: Python :: 3",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
